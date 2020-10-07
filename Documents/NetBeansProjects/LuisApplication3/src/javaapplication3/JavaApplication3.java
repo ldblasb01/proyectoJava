@@ -16,12 +16,12 @@ public class JavaApplication3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("sahgkhgdsakhsadg aegkjhkhaegki aegkhfqegkjaeglsaegmngevdb");
-        System.out.println("Holrfdfxdffxdfdxa!!!!");
-        System.out.println("kljgdsksdjf");
+        System.out.println("HOLA MUNDO HOLA MUNDO HOLA MUNDO");
+        System.out.println("HOLA MUNDO!!!!");
+        System.out.println("HOLA MUNDO");
         System.out.println("HOLA MUNDO");
         
-        System.out.println("ljtgffgcfcgkldsrl");
+        System.out.println("HOLA MUNDO");
     }
     
 }
